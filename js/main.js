@@ -77,6 +77,7 @@ console.log("Es dia habil?", parte3(77,14));
 }
  */
 
+//Ejercicio formula General
 function formula(a,b,c){
 
     let resultado;
